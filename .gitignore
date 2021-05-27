@@ -28,7 +28,6 @@ migrations/
 
 
 # Environments
-.env
 .venv
 env/
 venv/
