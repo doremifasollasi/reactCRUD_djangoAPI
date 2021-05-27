@@ -47,8 +47,8 @@ export class Department extends Component{
                     <thead>
                         <tr>
                             <th>DepartmentId</th>
-                            <th>DepartmentName</th>
-                            <th>Options</th>
+                        <th>DepartmentName</th>
+                        <th>Options</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -73,8 +73,8 @@ export class Department extends Component{
         onHide={editModalClose}
         depid={depid}
         depname={depname}/>
-</ButtonToolbar>                            
-                            
+</ButtonToolbar>
+
                                 </td>
                             </tr>)}
                     </tbody>
