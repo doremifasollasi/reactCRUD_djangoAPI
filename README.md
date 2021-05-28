@@ -1,6 +1,5 @@
-# reactCRUD_djangoAPI
+# Here is the SPA (Single Page Application)
 
-# Here is the SPA (Single Page Application).
 ## INTRO
 The Web application "Departmemts and Employees" consists of two parts: 
 backend - folder "DjangoAPI" (which is implemented on Django) and 
